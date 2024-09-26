@@ -1,6 +1,6 @@
-# Portafolio 
-Se utilzizara
-### Adios
+## Portafolio 
+Aqui se encontraran almacenados proyectos, tareas y notas realizadas a lo largo de mi trayectoria academica. 
+
 <!--
 **DiegoPaniagua23/DiegoPaniagua23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
